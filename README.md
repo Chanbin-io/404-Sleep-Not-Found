@@ -102,7 +102,7 @@
 
 > 초기 데모 예시 (디자인은 추후 변경될 수 있습니다)
 
-![demo](img/demo_light_puzzle.png)
+![demo](assets/img/demo_light_puzzle.png)
 
 ---
 
