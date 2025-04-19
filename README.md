@@ -65,7 +65,7 @@
 | 항목 | 내용 |
 |------|------|
 | 개발 환경 | Android Studio |
-| 언어 | Java / Kotlin |
+| 언어 | Java |
 | 렌더링 방식 | Canvas / SurfaceView |
 | 핵심 로직 | Ray 기반 반사/충돌 계산 |
 | 버전 관리 | Git & GitHub 협업 |
