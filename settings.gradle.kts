@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "404_Sleep_Not_Found"
+rootProject.name = "Android-Team-Project"
 include(":app")
